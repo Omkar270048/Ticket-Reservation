@@ -1,5 +1,6 @@
 # Ticket-Reservation
 This is an simple application similar to train ticket counter. The railway route is of western railway, Mumbai, Maharashtra, India. 
+This dose not have GUI.
 d.java file is to test some new code blocks. Before adding new code to this project, test and run the code in d.java file.
 admindata.java contains login/registration data of admin.
 adminlogin.java is landing page of this project. The process of login & registration will start here.
